@@ -1,4 +1,3 @@
-[Call Center_Dashboard.xlsx](https://github.com/MissKhemmie/First-Excel-Dashboard/files/10819245/Call.Center_Dashboard.xlsx)
 # Excel Dashboard with Kaggle Data
 Repository Name: Excel Dashboard with Kaggle Data
 
@@ -8,21 +7,9 @@ Folder Structure:
 
 /data: This folder contains the raw data downloaded from Kaggle.https://www.kaggle.com/datasets/mesumraza/real-world-fake-dataset-for-practice
 
-/analysis: This folder contains the Excel file that was used to analyze the data and build the dashboard. It also contains any intermediate files that were created during the analysis process.
+/analysis and output: This folder contains the Excel file that was used to analyze the data and build the dashboard. It also contains any intermediate files that were created during the analysis process as well as the final Excel dashboard file. (https://github.com/MissKhemmie/First-Excel-Dashboard/files/10819245/Call.Center_Dashboard.xlsx)
 
-/output: This folder contains the final output files, such as the Excel dashboard file and any charts or tables that were exported from the dashboard.
 
-/docs: This folder contains any documentation related to the project, such as a README file explaining how to use the dashboard and any notes on the data or analysis process.
-
-Files:
-
-/data/data.csv: The raw data file downloaded from Kaggle.https://www.kaggle.com/datasets/mesumraza/real-world-fake-dataset-for-practice
-
-/analysis/analysis.xlsx: The Excel file used for data analysis and dashboard creation.https://www.kaggle.com/datasets/mesumraza/real-world-fake-dataset-for-practice/download?datasetVersionNumber=2
-
-/output/dashboard.xlsx: The final Excel dashboard file.(https://github.com/MissKhemmie/First-Excel-Dashboard/files/10819245/Call.Center_Dashboard.xlsx)
-
-/docs/README.md: A detailed explanation on how to use the dashboard and any additional notes.
 
 Instructions for Use:
 
